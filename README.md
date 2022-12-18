@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef BEDHIEF</h1>
 <h3 align="center">Hi, I am Youssef BEDHIEF,👨‍🎓 IT Engineering student, in my final year at ISI. I'm hard-working, motivated, and eager to learn about new things and technological trends such as Blockchain🌐 and Web Development 👨‍💻. I am looking for an end-of-year internship to improve my knowledge and skills in my areas of interest and gain more experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefbedhief&label=Profile%20views&color=0e75b6&style=flat" alt="youssefbedhief" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefbedhief" alt="youssefbedhief" /></a> </p>
 
 - 🌱 I’m currently learning **Solidity, Next.js 13 and GraphQL**
 
@@ -25,6 +23,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefbedhief&show_icons=true&locale=en" alt="youssefbedhief" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssefbedhief&" alt="youssefbedhief" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefbedhief&label=Profile%20views&color=0e75b6&style=flat" alt="youssefbedhief" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefbedhief" alt="youssefbedhief" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
