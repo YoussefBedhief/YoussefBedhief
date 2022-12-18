@@ -18,7 +18,7 @@
 
 
 <h2 border-bottom="1px solid">📈  My GitHub History!</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefbedhief&theme=noctis_minimus&show_icons=true&locale=en&layout=compact" alt="youssefbedhief" /></p>
+<p><img align="left" margin="5ps" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefbedhief&theme=noctis_minimus&show_icons=true&locale=en&layout=compact" alt="youssefbedhief" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssefbedhief&theme=noctis_minimus&show_icons=true&locale=en" alt="youssefbedhief" /></p>
 
