@@ -97,7 +97,7 @@ With solid professional experience in designing and building modern, scalable we
 
 ### 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefBedhief)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YoussefBedhief)](https://git.io/streak-stats)
 
 ### 🏆 GitHub Trophies
 
