@@ -104,7 +104,7 @@ With solid professional experience in designing and building modern, scalable we
 
 ### 🏆 GitHub Trophies
 
-![Top Langages](https://github-profile-trophy.vercel.app/?username=YoussefBedhief&theme=aura)
+![Top Langages](https://github-trophies.vercel.app/?username=YoussefBedhief)
 
 
 ---
