@@ -23,7 +23,7 @@
 
 With solid professional experience in designing and building modern, scalable web applications. I focus on delivering high-quality solutions using the React/Next.js ecosystem on the frontend and robust backend architectures, while also working with smart contracts and decentralized technologies.
 
-- 🌱 **Currently deepening**: Next.js 14 (App Router), GraphQL, advanced testing strategies and blockchain architectures
+- 🌱 **Currently deepening**: Next.js latest version (App Router), GraphQL, advanced testing strategies and blockchain architectures
 - 👨‍💻 **Explore my work**: [My Portfolio](https://portfolio-youssefbedhief.vercel.app)
 - 💬 **Ask me about**: React, Next.js, TypeScript, Node.js, Solidity, system design
 - 📫 **Get in touch**: youssefbedhief11@gmail.com
