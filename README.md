@@ -92,9 +92,9 @@ With solid professional experience in designing and building modern, scalable we
 
 ### 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api/?username=YoussefBedhief\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 [![GitHub Streak](https://streak-stats.demolab.com?user=YoussefBedhief&theme=onedark)](https://git.io/streak-stats)
 ![Top Langages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=YoussefBedhief&theme=onedark)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api/?username=YoussefBedhief\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
 
 ### 🏆 GitHub Trophies
